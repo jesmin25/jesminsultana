@@ -12,4 +12,4 @@ Python | R | SQL | Dash | Power BI | caret | ggplot2
 - 🏠 **[Boston Housing Analysis](#)** – Regression trees and feature visualization
 
 ## 🌐 Connect with Me
-[LinkedIn](https://linkedin.com/in/YOURNAME) | [Portfolio](#) | [Resume](#)
+[LinkedIn](https://www.linkedin.com/in/jesmin-sultana/) | [Portfolio](#) | [Resume](#)
